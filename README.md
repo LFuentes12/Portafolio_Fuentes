@@ -6,7 +6,7 @@ b)El ususario sel ingresa cantidad
 c)El programa convirte el valor
 d) Se le muestra la conversion deseada ya sea quetzales, dolares, o euros
 
-# Preriquisitos
+# Prerequisitos
 Instalar compilador de C/C++
 # Datos de autor:
 Lourdes Fuentes 
